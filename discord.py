@@ -6,7 +6,7 @@ import random
 
 client = discord.Client()
 
-sad_words = ["sad", "depressed", "unhappy", "angry", "miserable", "depressing"]
+sad_words = ["sad", "depressed", "unhappy", "angry", "miserable", "depressing", "afraid"]
 
 starter_encouragements = [
   "I love you.",
